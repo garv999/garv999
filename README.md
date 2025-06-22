@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Garv Agarwal</h1>
-<h3 align="center">## 🚀 Data Science | Data Analyst | AI& ML Enthusiast I'm passionate about solving real-world problems using technology and building impactful products through Data Science, AI</h3>
+<h1 align="center"> Hi 👋, I'm Garv Agarwal</h1>
 
-<img align="right" alt="coding" width="400" src="n8agw6z2smyb1.gif">
+<table>
+  <tr>
+    <td>
+      <h3>🚀 Data Science | Data Analyst | AI & ML Enthusiast</h3>
+      <p>I'm passionate about solving real-world problems using technology and building impactful products through Data Science and AI.</p>
+    </td>
+    <td>
+      <img align="right" alt="coding" width="400" src="n8agw6z2smyb1.gif">
+    </td>
+  </tr>
+</table>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garv999" alt="garv999" /></a> </p>
 
