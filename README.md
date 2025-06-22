@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garv Agarwal</h1>
 <h3 align="center">## 🚀 Data Science | Data Analyst | AI& ML Enthusiast I'm passionate about solving real-world problems using technology and building impactful products through Data Science, AI</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw1zMV3F5zGaZVGLwVPMkHVL&ust=1750682942588000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOilna-IhY4DFQAAAAAdAAAAABAE”>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw1zMV3F5zGaZVGLwVPMkHVL&ust=1750682942588000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOilna-IhY4DFQAAAAAdAAAAABAE">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garv999" alt="garv999" /></a> </p>
 
