@@ -12,9 +12,6 @@
   </tr>
 </table>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garv999" alt="garv999" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/garv0000" target="blank"><img src="https://img.shields.io/twitter/follow/garv0000?logo=twitter&style=for-the-badge" alt="garv0000" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Time Series Forecasting Projects, Assistive Technology Projects and Assistive Technology Projects**
