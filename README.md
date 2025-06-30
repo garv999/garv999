@@ -7,7 +7,7 @@
       <p>I'm passionate about solving real-world problems using technology and building impactful products through Data Science and AI.</p>
     </td>
     <td>
-      <img align="right" alt="coding" width="400" src="n8agw6z2smyb1.gif">
+      <img align="right" alt="coding" width="400" src="9070324cdfc07c68d60eed0c39e77573.gif">
     </td>
   </tr>
 </table>
