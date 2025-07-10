@@ -73,7 +73,3 @@
 <br>
 <hr>
 
-<p align="center">
-  <img src="QuotE.png" alt="Quote" />
-</p>
-<hr>
