@@ -75,6 +75,6 @@
 
 <h3 align="left">✨ Random Quote::</h3>
 <p align="center">
-  <img src="Quote.png" alt="Quote" />
+  <img src="QuotE.png" alt="Quote" />
 </p>
 <hr>
