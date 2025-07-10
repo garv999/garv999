@@ -70,6 +70,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garv999&show_icons=true&locale=en&layout=compact" alt="garv999" /></p>
-<br>
-<hr>
 
