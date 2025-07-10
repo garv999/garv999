@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Time Series Forecasting and API Integration**
 
-- 📫 How to reach me **agarwalgarv494@gmail.com**
+- 📫 Reach me out: **agarwalgarv494@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XM3UAAFa8orTM-_KDQpgj46kmUZfvzfC/view?usp=sharing](https://drive.google.com/file/d/1XM3UAAFa8orTM-_KDQpgj46kmUZfvzfC/view?usp=sharing)
 
