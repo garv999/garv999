@@ -51,7 +51,7 @@
 <code><img height="27" src="MongoDB.png" alt="MongoDB"></code>
 <code><img height="27" src="html.png" alt="HTML"></code>
 <code><img height="27" src="CSS.png" alt="CSS"></code>
-<code><img height="27" src="GoogleClooud.png" alt="Google Cloud"></code>
+<code><img height="27" src="GoogleCloud.png" alt="Google Cloud"></code>
 <code><img height="27" src="Figma.png" alt="Figma"></code>
 <code><img height="27" src="Docker.png" alt="Docker"></code>
 <code><img height="27" src="Django.jpg" alt="Django"></code>
