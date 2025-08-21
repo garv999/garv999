@@ -24,9 +24,9 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Time Series Forecasting and API Integration**
 
-- 📫 Reach me out: **agarwalgarv494@gmail.com**
+- 📫 [agarwalgarv494@gmail.com](mailto:agarwalgarv494@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XM3UAAFa8orTM-_KDQpgj46kmUZfvzfC/view?usp=sharing](https://drive.google.com/file/d/1XM3UAAFa8orTM-_KDQpgj46kmUZfvzfC/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1XwreP2DryzItqQMsY3M7ivi6UHTTbcFg/view?usp=sharing)
 
 - ⚡ Fun fact **Coffee is my second programming language.**
 
