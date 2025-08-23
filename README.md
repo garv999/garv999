@@ -1,9 +1,9 @@
-<h1 align="center"> Hi 👋, I'm Garv Agarwal </h1>
-<h3 align="center">🚀Code. Create. Innovate.</h3>
+<h1 align="center"> Hi, I'm Garv Agarwal </h1>
+<h3 align="center">Code. Create. Innovate.</h3>
 <table>
   <tr>
     <td>
-      <h3>🚀 Data Science | Data Analyst | AI & ML Enthusiast</h3>
+      <h3>Data Science | Data Analyst | AI & ML Enthusiast</h3>
       <p>I'm passionate about solving real-world problems using technology and building impactful products through Data Science and AI.</p>
     </td>
     <td>
@@ -20,15 +20,15 @@
 <a href="https://instagram.com/garv__agarwal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garv__agarwal__" height="30" width="40" /></a>
 </p>
 
-- 👯 I’m looking to collaborate on **Time Series Forecasting Projects, Assistive Technology Projects and Assistive Technology Projects**
+- I’m looking to collaborate on **Time Series Forecasting Projects, Assistive Technology Projects and Assistive Technology Projects**
 
-- 💬 Ask me about **Data Science, Machine Learning, Time Series Forecasting and API Integration**
+- Ask me about **Data Science, Machine Learning, Time Series Forecasting and API Integration**
 
 - 📫 [agarwalgarv494@gmail.com](mailto:agarwalgarv494@gmail.com)
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1XwreP2DryzItqQMsY3M7ivi6UHTTbcFg/view?usp=sharing)
+- [Know about my experiences](https://drive.google.com/file/d/1XwreP2DryzItqQMsY3M7ivi6UHTTbcFg/view?usp=sharing)
 
-- ⚡ Fun fact **Coffee is my second programming language.**
+- Fun fact **Coffee is my second programming language.**
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
