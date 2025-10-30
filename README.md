@@ -25,10 +25,10 @@
 - Ask me about **Data Science, Machine Learning, Time Series Forecasting and API Integration**
 
 - 📫 [agarwalgarv494@gmail.com](mailto:agarwalgarv494@gmail.com)
+- [My Portfolio](https://garv999.github.io/Portfolio/)
 
--[My Portfolio](https://garv999.github.io/Portfolio/)
+- - [Know about my experiences](https://drive.google.com/file/d/1WMnLZYL-Kz8gSwA3qmK7heBNfutEnXar/view?usp=sharing)
 
-- [Know about my experiences]([https://drive.google.com/file/d/1XwreP2DryzItqQMsY3M7ivi6UHTTbcFg/view?usp=sharing](https://drive.google.com/file/d/1WMnLZYL-Kz8gSwA3qmK7heBNfutEnXar/view?usp=sharing))
 
 - Fun fact **Coffee is my second programming language.**
 
