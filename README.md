@@ -71,7 +71,6 @@
 -->
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garv999&show_icons=true&locale=en&layout=compact&theme=radical&langs" alt="garv999" /></p>
 <!--
 <img src="https://leetcard.jacoblin.cool/Garv999?ext=contest&theme=dark" />
 -->
