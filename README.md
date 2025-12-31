@@ -24,15 +24,43 @@
 
 - Ask me about **Data Science, Machine Learning, Time Series Forecasting and API Integration**
 
-- 📫 [agarwalgarv494@gmail.com](mailto:agarwalgarv494@gmail.com)
-- [My Portfolio](https://garv999.github.io/Portfolio/)
+- 📫 **Email:** [agarwalgarv494@gmail.com](mailto:agarwalgarv494@gmail.com)
+- 🌐 **Portfolio:** [My Portfolio](https://garv999.github.io/Portfolio/)
 
-- [Know about my experiences](https://drive.google.com/file/d/1WMnLZYL-Kz8gSwA3qmK7heBNfutEnXar/view?usp=sharing)
+- 📄 **Resume:** [Know about my experiences](https://drive.google.com/file/d/15VMAs4WHfytharFsGjZ8Gg-y1Rj3lsud/view?usp=sharing)
 
 
-- Fun fact **Coffee is my second programming language.**
+- **Fun Fact:** **Coffee is my second programming language.**
 
 <hr>
+
+### 🧰 Tech Stack
+
+#### 💻 Programming & Query Languages  
+`Python` • `SQL` • `HTML` • `CSS` 
+
+#### 🌐 Backend, APIs & Automation  
+`Flask` • `Django` • `Postman` • `n8n` • `ERPNext (Frappe)` • `OpenAI APIs`
+
+#### 🗄️ Databases & Warehousing  
+`MySQL` • `PostgreSQL` • `MongoDB` • `Oracle` • `Snowflake`
+
+#### 🧠 Data Science & Machine Learning  
+`Scikit-learn` • `TensorFlow` • `PyTorch` • `Pandas` • `NumPy` • `Seaborn` • `Matplotlib` • `OpenCV`
+
+#### 📊 Data Visualization & Apps  
+`Streamlit` • `Power BI` • `Tableau`
+
+#### ☁️ Cloud & Big Data  
+`Google Cloud` • `Microsoft Azure` • `Hadoop`
+
+#### 🐳 DevOps & Developer Tools  
+`Docker` • `Git` • `GitHub` • `Terminal`
+
+#### 🎨 Design & Prototyping  
+`Figma`
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <code><img height="27" src="Postman.png" alt="Postman"></code>
