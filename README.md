@@ -33,7 +33,7 @@
 ### 🧰 Tech Stack
 
 #### 💻 Programming & Query Languages  
-`Python` • `SQL` • `HTML` • `CSS` 
+`Python` • `SQL` • `HTML` • `CSS` • `JavaScript`
 
 #### 🌐 Backend, APIs & Automation  
 `Flask` • `Django` • `Postman` • `n8n` • `ERPNext (Frappe)` • `OpenAI APIs`
