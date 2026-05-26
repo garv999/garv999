@@ -23,7 +23,7 @@
 - 📫 **Email:** [agarwalgarv494@gmail.com](mailto:agarwalgarv494@gmail.com)
 - 🌐 **Portfolio:** [My Portfolio](https://garv999.github.io/Portfolio/)
 
-- 📄 **Resume:** [Know about my experiences](https://drive.google.com/file/d/15VMAs4WHfytharFsGjZ8Gg-y1Rj3lsud/view?usp=sharing)
+- 📄 **Resume:** [Know about my experiences](https://drive.google.com/file/d/1zgPLy5_f4LvB29OFoZGlQazRRH082qDy/view?usp=sharing)
 
 
 - **Fun Fact:** **Coffee is my second programming language.**
