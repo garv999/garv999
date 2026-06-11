@@ -20,40 +20,39 @@
 <a href="https://instagram.com/garv__agarwal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garv__agarwal__" height="30" width="40" /></a>
 </p>
 
-- 📫 **Email:** [agarwalgarv494@gmail.com](mailto:agarwalgarv494@gmail.com)
-- 🌐 **Portfolio:** [My Portfolio](https://garv999.github.io/Portfolio/)
+- **Email:** [agarwalgarv494@gmail.com](mailto:agarwalgarv494@gmail.com)
+- **Portfolio:** [My Portfolio](https://garv999.github.io/Portfolio/)
 
-- 📄 **Resume:** [Know about my experiences](https://drive.google.com/file/d/1zgPLy5_f4LvB29OFoZGlQazRRH082qDy/view?usp=sharing)
+- **Resume:** [Know about my experiences](https://drive.google.com/file/d/1zgPLy5_f4LvB29OFoZGlQazRRH082qDy/view?usp=sharing)
 
 
 - **Fun Fact:** **Coffee is my second programming language.**
 
 <hr>
 
-### 🧰 Tech Stack
+### 💻 Tech Stack
 
-#### 💻 Programming & Query Languages  
+#### Programming & Query Languages  
 `Python` • `SQL` • `HTML` • `CSS` • `JavaScript`
 
-#### 🌐 Backend, APIs & Automation  
+#### Backend, APIs & Automation  
 `Flask` • `Django` • `Postman` • `n8n` • `ERPNext (Frappe)` • `OpenAI APIs`
 
-#### 🗄️ Databases & Warehousing  
+#### Databases & Warehousing  
 `MySQL` • `PostgreSQL` • `MongoDB` • `Oracle` • `Snowflake`
 
-#### 🧠 Data Science & Machine Learning  
+#### Data Science & Machine Learning  
 `Scikit-learn` • `TensorFlow` • `PyTorch` • `Pandas` • `NumPy` • `Seaborn` • `Matplotlib` • `OpenCV`
 
-#### 📊 Data Visualization & Apps  
+#### Data Visualization & Apps  
 `Streamlit` • `Power BI` • `Tableau`
 
-#### ☁️ Cloud & Big Data  
+#### Cloud & Big Data  
 `Google Cloud` • `Microsoft Azure` • `Hadoop`
 
-#### 🐳 DevOps & Developer Tools  
+#### DevOps & Developer Tools  
 `Docker` • `Git` • `GitHub` • `Terminal`
-
-#### 🎨 Design & Prototyping  
+#### Design & Prototyping  
 `Figma`
 
 
