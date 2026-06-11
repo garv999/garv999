@@ -35,7 +35,7 @@
 
 - **Fun Fact:** **Coffee is my second programming language.**
 
-<hr>
+<!-- <hr>
 
 ### 💻 Tech Stack
 
@@ -60,7 +60,7 @@
 #### DevOps & Developer Tools  
 `Docker` • `Git` • `GitHub` • `Terminal`
 #### Design & Prototyping  
-`Figma`
+`Figma` -->
 
 
 <!--
