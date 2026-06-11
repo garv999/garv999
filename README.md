@@ -2,12 +2,19 @@
 <h3 align="center">Code. Create. Innovate.</h3>
 <table>
   <tr>
-    <td>
-      <h3>Data Science | Data Analyst | AI & ML Enthusiast</h3>
-      <p>I'm passionate about solving real-world problems using technology and building impactful products through Data Science and AI.</p>
+    <td width="60%">
+      <h3>Data Science | Data Analytics | AI & ML Enthusiast</h3>
+      <p>
+        Turning data into insights and ideas into intelligent solutions
+        through Machine Learning, Analytics, and real-world problem solving.
+      </p>
     </td>
-    <td>
-      <img align="right" alt="coding" width="400" src="9070324cdfc07c68d60eed0c39e77573.gif">
+    <td width="40%" align="center">
+      <img
+        src="./gif.gif"
+        alt="Coding GIF"
+        width="400"
+      />
     </td>
   </tr>
 </table>
